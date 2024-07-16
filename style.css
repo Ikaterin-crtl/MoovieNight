@@ -1,0 +1,20 @@
+
+      @media (max-width: 600px) {
+    body {
+      display: grid;
+    grid-template-rows: 11;
+    
+  }
+}
+    
+.float-md-start{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    padding-bottom: 5rem;
+}
+
+.btn{   
+    margin-top: 6rem;
+}
+
+
